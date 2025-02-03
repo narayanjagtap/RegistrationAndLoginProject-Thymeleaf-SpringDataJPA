@@ -2,7 +2,7 @@
 # 📝 RegistrationAndLoginProject-Thymeleaf-SpringDataJPA
 ---
 ## 📖 About the Project
-**RegistrationAndLoginProject-Thymeleaf-SpringDataJPA** is a web-based user authentication system that allows users to register, log in, and view their profiles. It is built using **Spring Boot, Thymeleaf, Spring Data JPA, MySQL/H2, and Maven**.
+**RegistrationAndLoginProject-Thymeleaf-SpringDataJPA** is a web-based user authentication system that allows users to register, log in, and view their profiles. It is built using **Spring Boot, Thymeleaf, Spring Data JPA, MySQL, and Maven**.
 
 ---
 
