@@ -69,7 +69,7 @@ Ensure you have the following installed on your system:
 ## 📸 Screenshots
 | Home Page | Registration Page | Login Page | Profile Page |
 |-----------|---------|------------|-----------|
-| ![Home](Home.png) | ![Register](register.png) | ![Login](login.png) | ![Profile](profile.png) |
+| ![Home](src/Home.png) | ![Register](src/Regester.png) | ![Login](src/Login.png) | ![Profile](src/Profile.png) |
 
 ---
 
